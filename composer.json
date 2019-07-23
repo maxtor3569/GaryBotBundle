@@ -1,0 +1,14 @@
+{
+    "name": "maxime/gary-bot-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "max",
+            "email": "maxtor3569@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2.9",
+        "symfony/framework-bundle": "~2.7|~3.2|~4.0"
+    }
+}
