@@ -7,8 +7,16 @@
             "email": "maxtor3569@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "url": "https://github.com/TheGarious/GaryBot.git",
+            "type": "vcs"
+        }
+    ],
     "require": {
         "php": "^7.2.9",
-        "symfony/framework-bundle": "~2.7|~3.2|~4.0"
+        "symfony/framework-bundle": "~2.7|~3.2|~4.0",
+        "thegarious/garybot": "dev-develop"
     }
+
 }
